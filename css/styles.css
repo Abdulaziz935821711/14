@@ -1,0 +1,50 @@
+div {
+  background-color: #dbe2ef;
+}
+.top{
+  position: relative;
+}
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  padding-top: 100px;
+  margin-top: 0;
+  width: 200px;
+  margin: auto;
+}
+
+/* .middle {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
+
+.bottom {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  */
+
+.cloud_top {
+  width: 250px;
+  position: absolute;
+  top: 50px;
+  right: 130px;
+}
+.cloud_bottom {
+  width: 250px;
+  position: absolute;
+  top: 140px;
+  left: 120px;
+  
+  /* position: absolute;
+  right: 0px;
+  top: 0px; */
+}
+.nature {
+  width: 100%;
+  height: 400px;
+}
